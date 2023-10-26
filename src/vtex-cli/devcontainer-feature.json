@@ -1,0 +1,11 @@
+{
+    "name": "Vtex CLI",
+    "id": "vtex-cli",
+    "version": "0.0.1",
+    "documentationURL": "https://github.com/MarlonPassos-git/dev-container-features/tree/main/src/vtex-cli",
+    "description": "The VTEX IO CLI (Command Line Interface) is the starting and ending point for any development on the VTEX platform. It provides developers with the ability to perform a wide range of actions essential to the development process, including linking local files to the VTEX platform, managing workspaces, and releasing new app versions.",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
